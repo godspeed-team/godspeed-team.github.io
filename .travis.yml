@@ -2,6 +2,7 @@ language: node_js
 env:
   global:
     - secure: "Xqs7zORTOetVQ6PfltaVlJuqvvafv67Nmm1AQfgGA5rsJeo1NWKzwqwQfFDuI4lTxK6FmzHYtpRwLMc/LMm+qUeLmYQCYm31/Ullhq5MNFQwB/HigiGgE8IDGgTXj1xi5uC62k+L5go28gHhIomWgHnIMhNGB6dyAbzCua3TO9M3s38Tbdqn0ThDbzM5uL619l0FP3/8LVmk6Dj59krwXwiIPz6KaLCY5XAApTq2Ot3zW7BIUK9YNUXgmu37tZHf/NG0KXvTjzBCTpmoZDHEC38t/+9zrXblNqisns/9TDhgqvJEOhO/CoytNU6/OEWlzH8iF472kyST4vem+08wQ9vufcnw8ek2mlbNA30W/rF+vdBGnWg579gerYlIEhmBuZ0Ny1A029Uu/TTR9PxcMxHHszEh350xuA8xZB7KHy5w9HjYx4g8k0smyyim99STXES074WA+HHur92HWN46fr2QZ4hhTt5M0Up+c3//8Z0wZQKAf0g2d7xXpzHc7vT2ReMMyzXIEQOf/V56E0GyV4Aj0DAl5ymomJj4YwF20OnjPdydl3Wkcs5bx8u63+G2CJRb0Ek76nFzrALM9VsixfQ97JNNsE6YNXXs0bjfRTmze/fzYPfMmNDq/mEPeGmmgdg6XqnnwsTCmDDvy99FN1U5D+4G2Ck1MbY37fsikYQ="
+    - PUBLIC_URL: http://godspeed.team
 node_js:
   - "node"
 script:
