@@ -2,23 +2,33 @@
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
 .App-header {
   background-color: #222;
-  height: 150px;
+  height: 40px;
   padding: 20px;
   color: white;
 }
 
 .App-intro {
+  height: 20px;
   font-size: large;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.App-header .Earth {
+  background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Whole_world_-_land_and_oceans_12000.jpg/640px-Whole_world_-_land_and_oceans_12000.jpg);
+  background-size: cover;
+  border: 0;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  animation: earth 50s linear 0s infinite;
+  box-shadow: 0 0 0px RGBA(255,255,255, 0.10),
+              inset 0 0 10px #000000;
+  margin: 0 auto;
+  transform: rotateX(6deg) rotateY(6deg) rotateZ(6deg);
+}
+
+@keyframes earth {
+  0% { background-position: 0 0 }
+  100% { background-position: 355px 0 }
 }

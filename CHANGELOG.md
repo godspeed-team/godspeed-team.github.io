@@ -1,6 +1,7 @@
 Changelog
 =========
 
+ *20170707* - Running [github-page][gh-pages] at [http://godspeed.team/][godspeed]  
  *20170705* - Simple [github-page][gh-pages] at [http://godspeed.team/][godspeed]  
  *20170705* - Initial idea
 
