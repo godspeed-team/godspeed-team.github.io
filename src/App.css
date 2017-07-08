@@ -6,7 +6,7 @@
 }
 
 .App nav {
-  border-bottom: 1px solid #ddf;
+  border-bottom: 2px solid #ddd;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -41,10 +41,6 @@
 .App nav ul li b {
   display: block;
   padding: 0 1em;
-}
-
-.App nav ul li a:hover {
-  background-color: #ddf;
 }
 
 @media screen and (max-width: 767px) {
