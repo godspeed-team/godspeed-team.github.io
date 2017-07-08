@@ -25,7 +25,7 @@ class App extends Component {
             <li><a href="">Build a Team</a></li>
             <li><a href="">Provide a Team</a></li>
             <li><a href="">Recruit a Team</a></li>
-            <li className="burger"><a href="javascript:void(0);" onClick={this.toggleMenu}>&#9776;</a></li>
+            <li className="burger"><a href="#" onClick={this.toggleMenu}>&#9776;</a></li>
           </ul>
         </nav>
       </div>
