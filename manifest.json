@@ -1,0 +1,15 @@
+{
+  "short_name": "godspeed.team",
+  "name": "Work as a team world wide",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16 32x32 48x48 64x64",
+      "type": "image/vnd.microsoft.icon"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
