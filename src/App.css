@@ -43,7 +43,7 @@
   padding: 0 1em;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 600px) {
   .App nav ul li { text-align: left; display: block; }
   .App nav ul li:not(:first-child) {display: none;}
   .App nav ul li.burger {
