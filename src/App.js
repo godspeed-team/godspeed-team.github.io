@@ -28,7 +28,7 @@ class App extends Component {
             <li className="burger"><a href="" onClick={this.toggleMenu}>&#9776;</a></li>
           </ul>
         </nav>
-        <iframe src="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfTvSIxcNYNf-Tngy-sLYeIqeHaaz8y-OVhBjMOWJ0qWOc8_w/viewform?embedded=true" width="100%" height="1024" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+        <iframe src="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfTvSIxcNYNf-Tngy-sLYeIqeHaaz8y-OVhBjMOWJ0qWOc8_w/viewform?embedded=true" width="100%" height="1024" frameBorder="0" marginHeight="0" marginWidth="0">Loading...</iframe>
       </div>
     );
   }
